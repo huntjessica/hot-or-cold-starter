@@ -319,3 +319,16 @@ ul.guessBox li {
 	margin: 0.2em;
 	color: #fff;
 }
+
+.guessBox .correct{
+	background-color: #44FF00;
+	font-weight: bold;
+}
+
+.guessBox .warmer{
+	background-color: #D10000;
+}
+
+.guessBox .colder{
+	background-color: #059FFF;
+}
